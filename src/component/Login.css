@@ -1,0 +1,58 @@
+.border-creation{
+    height: 100%;
+  
+    background-image: url('./assets/images/img-9.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    padding-top: 20px;
+    box-shadow: 10px -9px 10px -9px;
+    padding-bottom: 80px;
+    margin-top: 20px;
+    width: 450px;
+   
+}
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+
+label {
+display: block;
+}
+ input{
+    width: 100%;
+    margin-top: 10px;
+ }
+ button{
+    margin-top: 30px;
+    float: right;
+    padding: 5px;
+ }
+ .login p{
+    color: red;
+    font-size: 14px;
+ }
+ label{
+    font-size: 18px;
+    font-weight: 500;
+ }
+ h2{
+   text-align: center;
+ }
+ .gender input{
+   width: 20px;
+ }
+ .gender label{
+   width: 30px;
+   display: inline;
+ }
+
+ .check-box input{
+   width: 20px;
+ }
+ .check-box label{
+display: inline;
+ }
